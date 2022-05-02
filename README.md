@@ -1,2 +1,5 @@
-# Youtube-unblocked
-YouTube Unbl*cked is a simple unblocker and ad remover for YouTube videos.
+### Use to get around blocked YouTube videos ;)
+
+Find the finished product [here](https://yt.jcwyt.com).
+
+Credit to DuckDuckGo for some of the `<iframe>` code
